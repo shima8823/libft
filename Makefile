@@ -1,5 +1,4 @@
 CFLAGS = -Wall -Wextra -Werror
-CPPFLAGS = -I libft.h
 NAME = libft.a
 SRCS =	ft_bzero.c		\
 		ft_isalnum.c	\
